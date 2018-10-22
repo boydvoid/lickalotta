@@ -1,0 +1,67 @@
+html {
+    height: 100vh;
+}
+
+body {
+    height: 100%;
+    overflow: hidden;
+}
+
+.navbar {
+    padding: 20px;
+    background-color: #29AAE2;
+}
+
+.panel-overlay {
+    height: 100%;
+    width: 100%;
+    background-color: #000000a3;
+    position: absolute;
+    z-index: 1;
+}
+
+#flavors-panel {
+    padding: 0;
+}
+
+#about-panel {
+    padding: 0;
+}
+
+#logo-img {
+    width: 100px;
+    position: absolute;
+    top: 7px;
+    left: 46%;
+}
+
+#main-container {
+    height: 100%;
+    padding: 0px;
+}
+
+#main-jumbo {
+    height: 100%;
+    margin: 0;
+    max-height: 390px;
+
+}
+
+#announcement-row {
+    max-height: 100px;
+    height: 100%;
+}
+
+#announcement-bar {
+    background-color: #EE6693;
+    max-height: 200px;
+    height: 100%;
+}
+
+#content-row {
+    height: 100%;
+}
+
+#flavors-panel {
+    background: url("../images/temp1.png") no-repeat;
+}
