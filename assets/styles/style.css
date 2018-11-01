@@ -81,11 +81,11 @@ li {
   padding-right: 50px;
 }
 #logo-img {
-  width: 100px;
-  position: absolute;
-  top: 7px;
-  left: 0;
-  z-index: 9;
+    width: 130px;
+    position: absolute;
+    top: 7px;
+    left: 50%;
+    z-index: 9;
 }
 
 #main-container {
